@@ -1,4 +1,5 @@
 🧭 Pathfinding Algorithm Visualizer
+
 📌 Overview
 
 This project is a Pathfinding Visualizer built using Python (Tkinter & CustomTkinter).
